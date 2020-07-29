@@ -1,5 +1,5 @@
 require_relative './spec_helper.rb'
-require_relative '/Users/scc/.atom/.learn-ide/home/shacoca/rspec-fizzbuzz-online-web-sp-000/fizzbuzz.rb'
+require_relative '../fizzbuzz.rb'
 
 
 describe "fizzbuzz" do
